@@ -2,6 +2,7 @@ package java_fundamentals_activity;
 
 import java.util.Scanner;
 
+
 public class date_formatter {
 
 	public static void main(String[] args) {
@@ -17,7 +18,7 @@ public class date_formatter {
 		System.out.print("Year: ");
 		int year = scan.nextInt();
 		
-		String monthWord;
+		String monthWord = "";
 		
 		switch(month) {
 		case 1:
@@ -56,10 +57,11 @@ public class date_formatter {
 		case 12:
 			monthWord = "December";
 			break;
-		
-		
-		
+		default:
+			System.out.println("Month is Invalid");
 		}
+		
+		System.out.println(monthWord + " " + day + ", " + year);
 		
 		
 	}
