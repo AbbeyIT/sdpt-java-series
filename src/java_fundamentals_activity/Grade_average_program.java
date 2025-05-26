@@ -2,7 +2,7 @@ package java_fundamentals_activity;
 
 import java.util.Scanner;
 
-public class grade_average_program {
+public class Grade_average_program {
 
 	public static void main(String[] args) {
 		Scanner s = new Scanner(System.in);

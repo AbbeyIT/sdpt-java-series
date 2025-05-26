@@ -1,6 +1,6 @@
 package java_fundamentals_activity;
 
-public class sentence_builder {
+public class Sentence_builder {
 
 	public static void main(String[] args) {
 		

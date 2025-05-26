@@ -3,7 +3,7 @@ package java_fundamentals_activity;
 import java.util.Scanner;
 
 
-public class date_formatter {
+public class Date_formatter {
 
 	public static void main(String[] args) {
 		

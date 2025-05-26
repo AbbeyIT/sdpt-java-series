@@ -2,7 +2,7 @@ package java_fundamentals_activity;
 
 import java.util.Scanner;
 
-public class one_function_calculator {
+public class One_function_calculator {
 
 	public static void main(String[] args) {
 		
